@@ -31,10 +31,4 @@ Humans are clearly driven by selfishness as every action they make is intended t
 
 
 
-
-
-
-
-
-
 [[Website Links/FigureSkatingETC_2019Res]]
