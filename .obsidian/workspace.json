@@ -11,9 +11,11 @@
             "id": "c2009fa0ec3fb403",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Online-PowerPoints-Word-Docxs/7872-2019.BQ-Sample-Affirmative-1.pdf"
+                "file": "Sample Cases/Aff/FigureSkatingETC_2019Res.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Online-PowerPoints-Word-Docxs/7872-2019.BQ-Sample-Affirmative-1.pdf",
+                "file": "Sample Cases/Aff/FigureSkatingETC_2019Res.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Online-PowerPoints-Word-Docxs/7872-2019.BQ-Sample-Affirmative-1.pdf",
+                "file": "Sample Cases/Aff/FigureSkatingETC_2019Res.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Online-PowerPoints-Word-Docxs/7872-2019.BQ-Sample-Affirmative-1.pdf"
+                "file": "Sample Cases/Aff/FigureSkatingETC_2019Res.md"
               }
             }
           }
@@ -146,25 +148,24 @@
   },
   "active": "c2009fa0ec3fb403",
   "lastOpenFiles": [
+    "Website Links/FigureSkatingETC_2019Res.md",
+    "Online-PowerPoints-Word-Docxs/~$g-Questions-2017-2018-Evidence-Packet-2.docx",
+    "Online-PowerPoints-Word-Docxs/Big-Questions-2017-2018-Evidence-Packet-2.docx",
+    "Online-PowerPoints-Word-Docxs/Unconfirmed 466172.crdownload",
+    "Sample Cases/Aff/FigureSkatingETC_2019Res.md",
+    "Sample Cases/Neg/FigureSkatingETC_2019Res.md",
+    "Online-PowerPoints-Word-Docxs/7872-2019.BQ-Sample-Affirmative-1.pdf",
     "Online-PowerPoints-Word-Docxs/Big-Questions-Evidence-Packet-19-20.docx",
     "Online-PowerPoints-Word-Docxs/Unconfirmed 662267.crdownload",
     "Online-PowerPoints-Word-Docxs/BQ-22-23-Topic-Analyses-and-Sample-Casesv2.pdf",
-    "Sample Cases/Aff/FigureSkatingETC_2019Res.md",
     "Online-PowerPoints-Word-Docxs/Unconfirmed 564111.crdownload",
     "Website Links/NSDA_Simon_Sheaff.md",
-    "Website Links/FigureSkatingETC_2019Res.md",
-    "Sample Cases/Neg/FigureSkatingETC_2019Res.md",
     "AFF/Definitions.md",
     "Online-PowerPoints-Word-Docxs/PodHandler.pdf",
-    "Online-PowerPoints-Word-Docxs/7872-2019.BQ-Sample-Affirmative-1.pdf",
     "Online-PowerPoints-Word-Docxs/Unconfirmed 117313.crdownload",
-    "Online-PowerPoints-Word-Docxs/~$-22-23-Topic-Analyses-and-Sample-Casesv2.docx",
     "Website Links.md",
     "Website Links/DebateUS.md",
     "Definitions.md",
-    "Online-PowerPoints-Word-Docxs/Unconfirmed 613559.crdownload",
-    "Online-PowerPoints-Word-Docxs/7872-2019.BQ-Sample-Affirmative-1.docx",
-    "Online-PowerPoints-Word-Docxs/BQ-22-23-Topic-Analyses-and-Sample-Casesv2.docx",
     "Big-Questions-2023/Untitled.md"
   ]
 }
